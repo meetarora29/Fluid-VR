@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.fluidvr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Meet\\FluidVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "FluidVR [Testing]"
+        }
+      }
+    }
+  ]
+}
